@@ -1,4 +1,4 @@
-# SelAPIPython
+# Selenium API Python Automation
 Selenium and API automation draft using python
 
 1. Please install following python libraries
