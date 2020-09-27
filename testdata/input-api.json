@@ -1,0 +1,42 @@
+{
+    "booking_data": [
+        {
+            "firstname": "Harry",
+            "lastname": "Washington",
+            "totalprice": 12000,
+            "depositpaid": true,
+            "bookingdates": {
+                "checkin": "2020-01-15",
+                "checkout": "2020-01-20"
+            },
+            "additionalneeds": "Breakfast"
+        },
+        {
+            "firstname": "Shane",
+            "lastname": "Watson",
+            "totalprice": 50,
+            "depositpaid": false,
+            "bookingdates": {
+                "checkin": "2020-01-15",
+                "checkout": "2019-12-20"
+            },
+            "additionalneeds": "hotdogs"
+        }
+    ],
+    "modified_data": [
+        {
+            "firstname": "Timothy",
+            "lastname": "Johnson",
+            "totalprice": 1400,
+            "depositpaid": false,
+            "bookingdates": {
+                "checkin": "2020-09-30",
+                "checkout": "2020-10-05"
+            },
+            "additionalneeds": [
+                "Breakfast",
+                "Coffee"
+            ]
+        }
+    ]
+}

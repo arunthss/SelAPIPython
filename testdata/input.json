@@ -1,0 +1,43 @@
+{
+    "ajax_form": [
+        {
+            "username": "Shane",
+            "comments": "Shane Content"
+        },
+        {
+            "username": "Peter",
+            "comments": "Peter Content"
+        },
+        {
+            "username": "Ron",
+            "comments": "Ron Content"
+        }
+    ],
+    "jquery_date": [
+        {
+            "from_date": "2020-10-01",
+            "to_date": "2020-11-01"
+        },
+        {
+            "from_date": "2020-10-01",
+            "to_date": "2020-10-01"
+        },
+        {
+            "from_date": "2020-10-01",
+            "to_date": "2020-09-01"
+        }
+    ],
+    "slider_range": [
+        {
+            "value": 50
+        }
+    ],
+    "file_dw": [
+        {
+            "content": "hello world from python"
+        },
+        {
+            "content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,\nwhen an unknown printer took a galley of type and scrambled it to make a type specimen book. \nIt has survived not only five centuries, but also the leap into electronic typesetting, \nremaining essentially unchanged. It was popularised in the 1960s with the release of Letraset \n"
+        }
+    ]
+}
